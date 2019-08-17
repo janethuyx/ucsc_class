@@ -19,7 +19,7 @@ banner() {
 }
 
 HOST_NAME='spa'
-DEV_NAME='marilsonc'
+DEV_NAME='janethuyx'
 
 # Project name is the last dir of the path.
 PROJ_NAME=$(basename `pwd`)
