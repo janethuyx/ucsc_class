@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh spa "cd /srv/janethuyx/ucsc_class/proj_filter && ./remove_target && ./deploy"
